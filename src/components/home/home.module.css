@@ -1,0 +1,127 @@
+.hero, .hero2, .hero3, .leads{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem 0;
+    position: relative;
+    overflow: hidden;
+    width: 100vw;
+}
+
+.mainHeading{
+    text-align: center;
+    font-size: 3rem;
+    line-height: 1;
+    background: -webkit-linear-gradient(#3296fa,#2563eb);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    max-width: 56rem;
+    margin: 0;
+}
+
+.mainPara{
+    text-align: center;
+    opacity: 1;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    max-width: 56rem;
+    margin-top: 1.25rem;
+    margin-bottom: 0;
+}
+
+.mainButtons{
+    display: flex;
+    gap: 1rem;
+    margin-top: 2.5rem;
+}
+
+.tabInnerMost{
+    background-color: #72f0ca;
+    width: 62rem;
+    height: 32rem;
+    border-radius: 1rem;
+}
+
+.tabInner{
+    margin-top: -2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 65.5rem;
+    height: 35.5rem;
+    border-radius: 2.5rem;
+    border-top: 4px solid rgb(117, 117, 117);
+    border-right: 4px solid rgb(117, 117, 117);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px, rgba(0, 0, 0, 0.29) 0px 9px 20px, rgba(0, 0, 0, 0.26) 0px 37px 37px, rgba(0, 0, 0, 0.15) 0px 84px 50px, rgba(0, 0, 0, 0.04) 0px 149px 60px, rgba(0, 0, 0, 0.01) 0px 233px 65px;
+    transform-style: preserve-3d;
+    transition: 1s;
+}
+
+.keyLines{
+    display: flex;
+    gap: 1.5rem;
+    margin: 5rem 0;
+}
+
+.key{
+    max-width: 16rem;
+    background-color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 15px 30px #6bb2d04d,0 30px 60px #6fc5e240,0 45px 90px rgba(0, 238, 255, 0.2);
+}
+
+
+.infoIcon{
+    width: 1rem;
+    color: rgb(36, 111, 169);
+    border: 2px solid rgb(36, 111, 169);
+    padding: 0.2rem;
+    border-radius: 2rem;
+}
+
+.outComes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: -webkit-linear-gradient(#3296fa,#2563eb);
+    width: 90vw;
+    padding: 3rem 0;
+    gap: 1rem;
+    border-radius: 1rem;
+}
+
+.clients{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6rem;
+    background-color: white;
+    padding: 1rem 0;
+    margin: 3rem 0;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    gap: 8rem;
+    margin: 5rem 3rem;
+}
+
+.faq{
+    max-width: 45rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
