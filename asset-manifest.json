@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/realtor_big_estate/static/css/main.d3cc1854.css",
+    "main.js": "/realtor_big_estate/static/js/main.cab3f1ce.js",
+    "static/js/453.219fab4a.chunk.js": "/realtor_big_estate/static/js/453.219fab4a.chunk.js",
+    "static/media/tab-image-dashboard.png": "/realtor_big_estate/static/media/tab-image-dashboard.69fd2fc9e6b364275e8b.png",
+    "static/media/footer.png": "/realtor_big_estate/static/media/footer.1930b319f1f4f2555ca5.png",
+    "static/media/laptopImage.webp": "/realtor_big_estate/static/media/laptopImage.e4571e39d25244331cfa.webp",
+    "static/media/banner2.webp": "/realtor_big_estate/static/media/banner2.e7b73103db338935ee8a.webp",
+    "static/media/logo.webp": "/realtor_big_estate/static/media/logo.5f1fecd4ae5e3779a9b6.webp",
+    "index.html": "/realtor_big_estate/index.html",
+    "main.d3cc1854.css.map": "/realtor_big_estate/static/css/main.d3cc1854.css.map",
+    "main.cab3f1ce.js.map": "/realtor_big_estate/static/js/main.cab3f1ce.js.map",
+    "453.219fab4a.chunk.js.map": "/realtor_big_estate/static/js/453.219fab4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3cc1854.css",
+    "static/js/main.cab3f1ce.js"
+  ]
+}
