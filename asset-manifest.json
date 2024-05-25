@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/realtor_big_estate/static/css/main.e4391495.css",
-    "main.js": "/realtor_big_estate/static/js/main.45d224b8.js",
+    "main.css": "/realtor_big_estate/static/css/main.bf36a8d2.css",
+    "main.js": "/realtor_big_estate/static/js/main.1703aadd.js",
     "static/js/453.219fab4a.chunk.js": "/realtor_big_estate/static/js/453.219fab4a.chunk.js",
     "static/media/partener1.jpeg": "/realtor_big_estate/static/media/partener1.5b1840345bd5a0d71a47.jpeg",
     "static/media/logo.png": "/realtor_big_estate/static/media/logo.b286a5da4e3fc8b69468.png",
@@ -23,12 +23,12 @@
     "static/media/partener6.jpeg": "/realtor_big_estate/static/media/partener6.f00fc96ac831d1cc0617.jpeg",
     "static/media/partener2.jpeg": "/realtor_big_estate/static/media/partener2.5b034c13e7ae43271085.jpeg",
     "index.html": "/realtor_big_estate/index.html",
-    "main.e4391495.css.map": "/realtor_big_estate/static/css/main.e4391495.css.map",
-    "main.45d224b8.js.map": "/realtor_big_estate/static/js/main.45d224b8.js.map",
+    "main.bf36a8d2.css.map": "/realtor_big_estate/static/css/main.bf36a8d2.css.map",
+    "main.1703aadd.js.map": "/realtor_big_estate/static/js/main.1703aadd.js.map",
     "453.219fab4a.chunk.js.map": "/realtor_big_estate/static/js/453.219fab4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4391495.css",
-    "static/js/main.45d224b8.js"
+    "static/css/main.bf36a8d2.css",
+    "static/js/main.1703aadd.js"
   ]
 }
