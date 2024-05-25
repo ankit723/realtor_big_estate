@@ -1,11 +1,11 @@
 import React from "react";
-import logo from '../../icons/logo.webp'
+import logo from '../../icons/logo.png'
 import classes from './navbar.module.css'
 
 const Navbar=()=>{
     return(
         <>
-        <div className={classes.navbar}>
+        <nav className={classes.navbar}>
 
             <div className={classes.logo}>
                 <img src={logo}/>
@@ -23,7 +23,7 @@ const Navbar=()=>{
                 <button>GET STARTED</button>
             </div>
 
-        </div>
+        </nav>
         
         </>
     )

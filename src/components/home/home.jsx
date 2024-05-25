@@ -5,16 +5,23 @@ import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import classes from './home.module.css'
-import tabImage from '../background-images/tab-image-dashboard.png'
+import tabImage from '../background-images/tabInsideImage.jpeg'
 import laptopImage from '../background-images/laptopImage.webp'
-import client1 from '../../icons/client1.png'
-import client2 from '../../icons/client2.png'
-import client3 from '../../icons/client3.png'
-import client4 from '../../icons/client4.png'
-import client5 from '../../icons/client5.png'
-import client6 from '../../icons/client6.png'
-import client7 from '../../icons/client7.png'
-import client8 from '../../icons/client8.png'
+import client1 from "../parteners images/partener1.jpeg";
+import client2 from "../parteners images/partener2.jpeg";
+import client3 from "../parteners images/partener3.jpeg";
+import client4 from "../parteners images/partener4.jpeg";
+import client5 from "../parteners images/partener5.jpeg";
+import client6 from "../parteners images/partener6.jpeg";
+import client7 from "../parteners images/partener7.jpeg";
+import client8 from "../parteners images/partener8.jpeg";
+import client9 from "../parteners images/partener9.jpeg";
+import client10 from "../parteners images/partener10.jpeg";
+import client11 from "../parteners images/partener11.jpeg";
+import client12 from "../parteners images/partener12.jpeg";
+import client13 from "../parteners images/partener13.jpeg";
+import client14 from "../parteners images/partener14.jpeg";
+import client15 from "../parteners images/partener15.jpeg";
 import banner2 from '../../icons/banner2.webp'
 
 const Home=()=>{
@@ -43,9 +50,7 @@ const Home=()=>{
         <div className={classes.hero}>
             <h1 className={classes.mainHeading}>GET HIGH-QUALITY REAL ESTATE LEADS THAT CONVERTS</h1>
 
-            <p className={classes.mainPara}>Stop Using the same old listing websites that share same leads to every Builder/Channel
-Partner. Get Exclusive One-on-One Integrated Real Estate Leads that Converts. Drive
-Consistent Site Visit & Revenue with our AI Marketing Approach.</p>
+            <p className={classes.mainPara}>Stop Using the same old listing websites that share same leads to every Builder/Channel client. Get Exclusive One-on-One Integrated Real Estate Leads that Converts. Drive Consistent Site Visit & Revenue with our AI Marketing Approach.</p>
 
             <div className={classes.mainButtons}>
                 <div className={classes.button}>
@@ -146,7 +151,7 @@ Consistent Site Visit & Revenue with our AI Marketing Approach.</p>
         <div className={`${classes.ourClients} ${classes.tstimonials} ${classes.hero}`}>
             <h1 style={{fontSize:"1.875rem", lineHeight:"2.25rem", margin:"0", width:"35rem", textAlign:"center"}}>Our Clients</h1>
             
-            <div className={classes.clients}>
+            <div className={classes.clients} style={{display:"flex", flexWrap:"wrap"}}>
                 <img src={client1} alt="" style={{width:"6rem"}}/>
                 <img src={client2} alt="" style={{width:"6rem"}}/>
                 <img src={client3} alt="" style={{width:"6rem"}}/>
@@ -155,9 +160,15 @@ Consistent Site Visit & Revenue with our AI Marketing Approach.</p>
                 <img src={client6} alt="" style={{width:"6rem"}}/>
                 <img src={client7} alt="" style={{width:"6rem"}}/>
                 <img src={client8} alt="" style={{width:"6rem"}}/>
+                <img src={client9} alt="" style={{width:"6rem"}}/>
+                <img src={client10} alt="" style={{width:"6rem"}}/>
+                <img src={client11} alt="" style={{width:"6rem"}}/>
+                <img src={client12} alt="" style={{width:"6rem"}}/>
+                <img src={client13} alt="" style={{width:"6rem"}}/>
+                <img src={client14} alt="" style={{width:"6rem"}}/>
+                <img src={client15} alt="" style={{width:"6rem"}}/>
             </div>
         </div>
-
         
         <div className={classes.leads}>
             <div className={classes.banner} style={{width:"100vw", borderRadius:"0", flexDirection:"row", justifyContent:"space-between", position:"relative", padding:"5rem 0"}}>
