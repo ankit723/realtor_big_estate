@@ -62,6 +62,8 @@
 
 .keyLines{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 1.5rem;
     margin: 5rem 0;
 }
@@ -85,6 +87,7 @@
 
 .outComes{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -115,6 +118,7 @@
 .contact{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 8rem;
     margin: 5rem 3rem;
 }

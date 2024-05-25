@@ -19,7 +19,7 @@ const Footer=()=>{
 
 
                     <div className={classes.child3}>
-                        <img src={footer} alt="" style={{width:"40rem"}}/>
+                        <img src={footer} alt="" style={{width:"30rem"}}/>
                     </div>
 
 
